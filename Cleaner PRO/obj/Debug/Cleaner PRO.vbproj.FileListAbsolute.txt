@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner PRO.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner_PRO.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner_PRO.loading.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner_PRO.Settings.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner_PRO.White1.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner_PRO.White2.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner PRO.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (6)\Cleaner PRO\obj\Debug\Cleaner PRO.vbproj.CoreCompileInputs.cache
